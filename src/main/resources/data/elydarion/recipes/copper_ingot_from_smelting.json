@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "elydarion:copper_ore"
+  },
+  "result": "elydarion:copper_ingot",
+  "experience": 5.0,
+  "cookingtime": 120
+}

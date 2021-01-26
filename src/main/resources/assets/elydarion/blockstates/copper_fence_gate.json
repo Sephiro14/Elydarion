@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "texture": {
+    "texture": "elydarion:block/copper_block"
+  }
+}

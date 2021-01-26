@@ -1,0 +1,30 @@
+{
+  "itemGroup.elydarionBlocks": "Elydarion Blocks",
+  "itemGroup.elydarionItems": "Elydarion Items",
+  "itemGroup.elydarionCombat": "Elydarion Combat",
+  "itemGroup.elydarionTools": "Elydarion Tools",
+
+  "item.elydarion.copper_coin": "Copper Coin",
+  "item.elydarion.silver_coin": "Silver Coin",
+  "item.elydarion.gold_coin": "Gold Coin",
+
+  "item.elydarion.copper_ingot": "Copper Ingot",
+  "item.elydarion.example_item": "Example Item",
+
+  "item.elydarion.copper_shovel": "Copper Shovel",
+  "item.elydarion.copper_hoe": "Copper Hoe",
+  "item.elydarion.copper_axe": "Copper Axe",
+  "item.elydarion.copper_pickaxe": "Copper Pickaxe",
+
+  "item.elydarion.copper_sword": "Sword Copper",
+
+  "item.elydarion.copper_helmet": "Copper Helmet",
+  "item.elydarion.copper_chestplate": "Copper Chestplate",
+  "item.elydarion.copper_leggings": "Copper Leggings",
+  "item.elydarion.copper_boots": "Copper Boots",
+
+
+  "block.elydarion.copper_block": "Copper Block",
+  "block.elydarion.hay_stairs": "Hay Stairs",
+  "block.elydarion.copper_ore": "Copper Ore"
+}

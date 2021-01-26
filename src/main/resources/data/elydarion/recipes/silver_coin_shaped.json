@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "elydarion:silver_coin"
+    }
+  },
+  "result":
+  {
+    "item": "elydarion:gold_coin"
+  }
+}

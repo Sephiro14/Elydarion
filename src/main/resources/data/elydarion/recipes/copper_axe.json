@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " cc",
+    " xc",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:stick"
+    },
+    "c":
+    {
+      "item": "elydarion:copper_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "elydarion:copper_axe"
+  }
+}

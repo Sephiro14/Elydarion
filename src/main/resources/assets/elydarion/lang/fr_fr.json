@@ -1,0 +1,29 @@
+{
+  "itemGroup.elydarionBlocks": "Blocs Elydarion",
+  "itemGroup.elydarionItems": "Objets Elydarion",
+  "itemGroup.elydarionCombat": "Combat Elydarion",
+  "itemGroup.elydarionTools": "Outils Elydarion",
+
+  "item.elydarion.copper_coin": "Pi\u00e8ce de Cuivre",
+  "item.elydarion.silver_coin": "Pi\u00e8ce d'argent",
+  "item.elydarion.gold_coin": "Pi\u00e8ce d'or",
+
+  "item.elydarion.copper_ingot": "Barre de Cuivre",
+  "item.elydarion.example_item": "Objet Exemple",
+
+  "item.elydarion.copper_shovel": "Pelle en Cuivre",
+  "item.elydarion.copper_hoe": "Houe en Cuivre",
+  "item.elydarion.copper_axe": "Hache en Cuivre",
+  "item.elydarion.copper_pickaxe": "Pioche en Cuivre",
+
+  "item.elydarion.copper_sword": "\u00e9p\u00e9e en Cuivre",
+
+  "item.elydarion.copper_helmet": "Heaume en Cuivre",
+  "item.elydarion.copper_chestplate": "Plastron en Cuivre",
+  "item.elydarion.copper_leggings": "Jambi\u00e8res en Cuivre",
+  "item.elydarion.copper_boots": "Bottes de Cuivre",
+
+  "block.elydarion.copper_block": "Bloc de Cuivre",
+  "block.elydarion.hay_stairs": "Escaliers en Paille",
+  "block.elydarion.copper_ore": "Minerai de Cuivre"
+}

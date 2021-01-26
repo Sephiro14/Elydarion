@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+          [
+            { "item": "elydarion:silver_coin" }
+          ],
+ "result":
+  {
+    "item": "elydarion:copper_coin",
+    "count": 9
+  }
+}
