@@ -6,9 +6,21 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "elydarion:copper_block"
-        }
-      ]
+          "functions": "minecraft:set_count",
+          "count": {
+            "min": 1.0,
+            "max": 5.0,
+            "type": "minecraft:uniform"
+          }
+          }
+      ],
+      "name": "elydarion:copper_block",
+      "weight": 20
+    },
+    {
+      "type": "minecraft:item",
+      "name": "elydarion:copper_ore",
+      "weight": 80
     }
   ]
 }
