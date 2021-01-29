@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "elydarion:block/zuccini_crop_stage1"
+  }
+}

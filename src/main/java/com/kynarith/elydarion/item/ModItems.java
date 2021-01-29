@@ -1,6 +1,8 @@
 package com.kynarith.elydarion.item;
 
 import com.kynarith.elydarion.Elydarion;
+import com.kynarith.elydarion.block.ModBlocks;
+import com.kynarith.elydarion.block.ModFuilds;
 import com.kynarith.elydarion.util.Registration;
 import net.minecraft.client.audio.Sound;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -78,7 +80,8 @@ public class ModItems
     public static final RegistryObject<Item> COPPER_BOOTS = Registration.ITEMS.register("copper_boots",
             () -> new ArmorItem(ModArmorMaterial.COPPER, EquipmentSlotType.FEET, new Item.Properties().group(Elydarion.ELYDARION_COMBAT)));
 
-
+    public static final RegistryObject<Item> MILK_BUCKET = Registration.ITEMS.register("milk_bucket",
+            () -> new BucketItem(ModFuilds.MILK_FLUID::get, new Item.Properties().group(Elydarion.ELYDARION_ITEMS).maxStackSize(1)));
 
     public static void register ()
     {
